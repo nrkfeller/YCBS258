@@ -1,2 +1,2 @@
-# YCBS258
-Practical Machine Learning @ McGill University
+# Practical Machine Learning (YCBS 258) @ McGill University
+This course covers topics in deep learning including the perceptron algorithm, multilayered perceptrons, convolutional neural networks, recurrent neural networks, some advanced strategies and practical applications
